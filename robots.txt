@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mcdonaldsmenuukprices.co.uk/sitemap.xml
